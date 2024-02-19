@@ -1,5 +1,5 @@
 {
-    "name": "EVOXPRO 𝙼𝚄𝚂𝙸𝙲",
+    "name": "AANYAA 𝙼𝚄𝚂𝙸𝙲",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://telegra.ph/file/40305bd1cf787e5b3be21.jpg",
     "keywords": [
@@ -59,7 +59,7 @@
       },
       "GPT_API": {
         "description": "Your GPT API Key open ai",
-        "value": "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",
+        "value": "
         "required": true
       },
       "LOGGER_ID": {
